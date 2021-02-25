@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
+ <body>
 <title>DANIA</title>
-</head>
-<body>
+
+
 
 <h1>Dania Farouq Omar AlKhmous</h1>
 <p> I do not have many scientific backgrounds, except that the school was my gateway to knowledge. My knowledge did not go beyond what is given in textbooks. After I graduated from school, my educational background became wider, as I moved to a larger community.
