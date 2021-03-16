@@ -35,7 +35,7 @@ As for my academic background, I graduated from my primary school with honors an
 
 <p style="font-family:courier;"><a href="https://www.facebook.com/dania.alkhmous">Visit my profile on facebook</a></p>
 
-<img src="AQSA.jpg" alt="Aqsa_Mosuqe"style="width:25%;height:40%;">
+<img src="https://raw.githubusercontent.com/daniaalkhmous99/daniaalkhmous99.github.io/main/AQSA.jpg" alt="Aqsa_Mosuqe"style="width:25%;height:40%;">
 
 <p style="text-align:center;">
 <h3 style="text-align:center;">List of my scientific backgrounds<h3>
